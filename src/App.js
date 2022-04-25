@@ -12,8 +12,13 @@ function App() {
         <p>
           The mandatory section involves hydrating a function. This function is
           located inside the Utils/NumberFunctions.js file. Please follow the
-          instructions there.  For the purpose of speeding your task up:<br/>
-          Prime numbers from 1 to 24: 2,3,5,7,11,13,17,19,23  and therefore the non-prime numbers are: 1,4,6,8,9,10,12,14,15,16,18,20,21,22,24 in that same range.
+          instructions there. For the purpose of speeding your task up:
+          <br />
+          Prime numbers from 1 to 24: 2,3,5,7,11,13,17,19,23 and therefore the
+          non-prime numbers are: 1,4,6,8,9,10,12,14,15,16,18,20,21,22,24 in that
+          same range. You will need to add enough React code to this application
+          (component or just inline) to be able to call this function and
+          validate that it is functioning correctly.
         </p>
         <p>
           After the mandatory section is completed, please feel free to
