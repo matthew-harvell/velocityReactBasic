@@ -2,6 +2,8 @@
 
 ### This evaluation consists of two sections. One is mandatory while the other is at your discretion given the time frame available.
 
+### You will need to share your screen with the interviewer while completing this evaluation.
+
 The mandatory section involves hydrating a function. This function is
 located inside the Utils/NumberFunctions.js file. Please follow the
 instructions there. For the purpose of speeding your task up:
