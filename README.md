@@ -1,12 +1,10 @@
+### To begin, please clone (or download as a zip) this repo to your machine.  Since you are applying for a position as a React developer, it is assumed that your machine is setup for React development.  If this is not the case, please let the interviewer know as this can be accomplished quickly enough.  This application is created using the create-react-app cli tool and uses standard JavaScript and JSX throughout.
 
-*This evaluation consists of two sections. One is mandatory while the
-other is at your discretion given the time frame available.*
-
+### This evaluation consists of two sections. One is mandatory while the other is at your discretion given the time frame available.
 
 The mandatory section involves hydrating a function. This function is
 located inside the Utils/NumberFunctions.js file. Please follow the
 instructions there. For the purpose of speeding your task up:
-
 
 Prime numbers from 1 to 24: 2,3,5,7,11,13,17,19,23 and therefore the
 non-prime numbers are: 1,4,6,8,9,10,12,14,15,16,18,20,21,22,24 in that
